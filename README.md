@@ -1,3 +1,3 @@
 # genpactMinorProject
 
-This is a Home Insurance developed by me from the scarch.
+This is a Home Insurance Project developed by me from the scarch.
